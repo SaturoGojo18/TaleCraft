@@ -1,6 +1,6 @@
 # TaleCraft - An AI Storyteller Assistant
 
-StorySphere is an AI-powered storytelling assistant designed to create engaging and interactive stories for users. The chatbot allows users to select their preferred language (Hindi or English) and enjoy a variety of tales tailored to their choices.
+TaleCraft is an AI-powered storytelling assistant designed to create engaging and interactive stories for users. The chatbot allows users to select their preferred language (Hindi or English) and enjoy a variety of tales tailored to their choices.
 
 ![TaleCraft](Readme.png)
 
