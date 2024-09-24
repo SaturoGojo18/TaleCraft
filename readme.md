@@ -37,13 +37,13 @@ Once the user selects a genre, the AI will start generating the story based on t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/username/storysphere.git
+   git clone https://github.com/SaturoGojo18/TaleCraft.git
 
 
 2. Navigate to the project directory:
 
     ```bash 
-    cd storysphere
+    cd TaleCraft
 
 3. Install dependencies:
 
